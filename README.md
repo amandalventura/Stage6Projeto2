@@ -1,7 +1,7 @@
 # Stage 06 - Projeto 02
 ## Sobre o projeto:
 Projeto da segunda fase do Stage 06 do curso Explorer da Rocketseat (Avançando nas Promises), aparentemente simples, mas com funcionalidades muito interessantes. 
-É uma aplicação para marcar os favoritos do nosso GitHub, podendo também excluir os usuários inseridos, e, no caso de tentar adicionar mais de uma vez o mesmo usuário, aparece um alerta informando que o usuário já foi inserido. No caso também da tentativa de inserir um usuário inexistente, aparece outro alerta, informando que o usuário não foi encontrado.
+É uma aplicação onde podemos marcar os favoritos do nosso GitHub, podendo também excluir os usuários inseridos, e, no caso de tentar adicionar mais de uma vez o mesmo usuário, aparece um alerta informando que o usuário já foi inserido. No caso também da tentativa de inserir um usuário inexistente, aparece outro alerta, informando que o usuário não foi encontrado.
 ### Temas abordados: 
 - Tabelas em HTML
 - Acessibilidade sr-only
